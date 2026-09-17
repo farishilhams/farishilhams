@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Farish+Ilham+Syahrani;Web+Developer+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=150&section=header" alt="header wave" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Farish+Ilham+Syahrani;Web+Developer+%26+Machine+Learning+Engineer" alt="Typing SVG" />
 
 **Web Developer & Machine Learning Engineer** — membangun aplikasi web dari sisi frontend hingga backend, serta mengembangkan model machine learning dari eksplorasi data hingga implementasi.
 
