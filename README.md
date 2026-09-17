@@ -1,10 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=150&section=header" alt="header wave" />
-
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Farish+Ilham+Syahrani;Web+Developer+%26+Machine+Learning+Engineer" alt="Typing SVG" />
-
-**Web Developer & Machine Learning Engineer** — membangun aplikasi web dari sisi frontend hingga backend, serta mengembangkan model machine learning dari eksplorasi data hingga implementasi.
 
 Lulusan Informatics Engineering dari [Universitas Trunojoyo Madura](https://www.trunojoyo.ac.id/). Fokus pada arsitektur bersih, performa, dan kode yang mudah dirawat — baik untuk aplikasi web maupun sistem berbasis machine learning. Terbuka untuk peluang freelance maupun full-time.
 
