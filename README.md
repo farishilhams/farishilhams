@@ -1,6 +1,8 @@
-# Farish Ilham Syahrani
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1572B6&center=true&vCenter=true&width=500&height=45&lines=Farish+Ilham+Syahrani" alt="Farish Ilham Syahrani" />
 
-**Web Developer & Machine Learning Engineer** — building intelligent web applications, from interface to model deployment.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1500&color=777BB4&center=true&vCenter=true&width=600&height=30&lines=Web+Developer+%26+Machine+Learning+Engineer" alt="Web Developer & Machine Learning Engineer" />
+</p>
 
 Informatics Engineering graduate from [Universitas Trunojoyo Madura](https://www.trunojoyo.ac.id/). I care about clean architecture, performance, and maintainable code across web systems and machine learning pipelines. Open to freelance and full-time opportunities.
 
